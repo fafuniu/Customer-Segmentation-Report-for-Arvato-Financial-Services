@@ -30,7 +30,7 @@ There is only one notebooks in the root directory. It follows the traditional st
 The data file of this project is not provided because of the sensitive and proprietary nature of the demographics data.
 
 ## Results <a name="results"></a>
-The detailed explaination of this project can be found at my post which is available by this [link](https://medium.com/@fafun/customer-segmentation-report-for-arvato-financial-services-80371a8a2de4).
+The detailed explanation of this project can be found at my post which is available by this [link](https://medium.com/@fafun/customer-segmentation-report-for-arvato-financial-services-80371a8a2de4).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
